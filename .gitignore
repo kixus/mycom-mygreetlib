@@ -1,0 +1,9 @@
+
+build
+junk*
+intern*
+bug*
+.sublime-workspace
+.sublime-project
+.code-workspace
+
